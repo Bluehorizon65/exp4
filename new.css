@@ -52,7 +52,7 @@ body {
 .banner {
     height: calc(95vh - 190px); /* Adjust height to fill remaining viewport height */
     position: relative;
-    background-image: url("images/tax-success.jpg");
+    background-image: url("tax-success.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; /* Ensures the image covers the entire banner */
@@ -153,3 +153,4 @@ body {
     }
 }
 */
+
